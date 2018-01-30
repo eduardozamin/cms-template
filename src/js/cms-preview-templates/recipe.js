@@ -57,7 +57,7 @@ export default class PostPreview extends React.Component {
                         <div
                             class="col-xs-12 col-md-6 col-lg-7 item-wrapper d-flex justify-content-between flex-nowrap align-items-center recipe-info-summary">
                             <div class="info-item info-item-time d-flex flex-column flex-wrap text-left">
-                                <div class="font-style-body-2 font-weight-bold info-item-label w-100-p">Gesamt: {entry.getIn(["data", "zubereitung_gesamt"])}
+                                <div class="font-style-body-2 font-weight-bold info-item-label w-100-p">Gesamt: {entry.getIn(["data", "gesamtzeit"])}
                                 </div>
                                 <div class="font-style-body info-item-label w-100-p">Zubereitung: {entry.getIn(["data", "zubereitung"])}</div>
                             </div>
