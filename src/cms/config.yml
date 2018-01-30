@@ -59,6 +59,12 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Leicht, value: 1}
           - {label: Mittel, value: 2}
           - {label: Schwer, value: 3}
+      - name: "zubereitung"
+        label: "Zubereitung"
+        widget: string
+      - name: "zubereitun_gesamt"
+        label: "Zubereitung (Gesamt)"
+        widget: string
       - name: steps
         label: Steps
         widget: list
