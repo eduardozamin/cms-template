@@ -4,7 +4,7 @@ title: HÄHNCHEN-CURRY MIT PENNE
 image: /img/haehnchen-curry-mit-penne_rdk-rds_rv_hd.jpg
 description: 'Wer die Soße etwas dickflüssiger mag, kann noch 2-3 EL Schmand unterrühren.'
 difficulty: '2'
-gesamtzeit: 65 min
+gesamtzeit: 75 min
 zubereitung: 45 min
 steps:
   - description: >-
