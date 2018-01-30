@@ -1,7 +1,7 @@
 ---
-name: suesskartoffel-pfanne
+name: Janas Rezept
 title: Süßkartoffelkram
-image: /img/EW_Mezze_Bowl_rdk-startseite_kv_1480.jpg
+image: /img/wirsing-pizza_zunge mit speck_863.jpg
 description: Lirum Larum
 difficulty: '1'
 steps:
