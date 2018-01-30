@@ -1,5 +1,5 @@
 ---
-name: test
+name: suesskartoffel-pfanne
 title: Süßkartoffelkram
 image: /img/EW_Mezze_Bowl_rdk-startseite_kv_1480.jpg
 description: Lirum Larum
