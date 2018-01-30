@@ -38,8 +38,6 @@ steps:
       darauf legen. Weiter mit Tomaten, Gurken und Zwiebeln belegen,
       Hamburgersoße großzügig darüber geben und die obere Brötchenhälfte darauf
       setzen. Die Burger mit je einem Holzspieß fixieren und servieren.
-  - {}
-  - {}
 ingredients:
   - ingredient: Mehl
     quantity: '300'
