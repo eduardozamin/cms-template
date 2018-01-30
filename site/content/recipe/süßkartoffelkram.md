@@ -1,7 +1,7 @@
 ---
 name: test
 title: Süßkartoffelkram
-image: /img/weiße bohnen in tomatensauce.jpg
+image: /img/EW_Mezze_Bowl_rdk-startseite_kv_1480.jpg
 description: Lirum Larum
 difficulty: '1'
 steps:
