@@ -28,7 +28,10 @@ steps:
       30 bis 35 Minuten backen.
 ingredients:
   - ingredient: Zucchini
-    quantity: '1000'
+    quantity: '1000 '
     unit: g
+  - ingredient: 'Rapsöl '
+    quantity: '2 '
+    unit: EL
 ---
 
