@@ -27,10 +27,10 @@ steps:
       sein. Mit dem geriebenen Käse bestreuen und im vorgeheizten Backofen ca.
       30 bis 35 Minuten backen.
 ingredients:
-  - ingredient: Zucchini
+  - ingredient: ' Zucchini'
     quantity: '1000 '
     unit: g
-  - ingredient: 'Rapsöl '
+  - ingredient: ' Rapsöl '
     quantity: '2 '
     unit: EL
 ---
