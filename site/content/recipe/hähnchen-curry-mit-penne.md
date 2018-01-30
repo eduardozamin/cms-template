@@ -1,5 +1,5 @@
 ---
-name: HÄHNCHEN-CURRY MIT PENNE
+name: curry-mit-penne
 title: HÄHNCHEN-CURRY MIT PENNE
 image: /img/haehnchen-curry-mit-penne_rdk-rds_rv_hd.jpg
 description: 'Wer die Soße etwas dickflüssiger mag, kann noch 2-3 EL Schmand unterrühren.'
