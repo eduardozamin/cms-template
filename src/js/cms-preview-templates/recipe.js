@@ -154,16 +154,13 @@ export default class PostPreview extends React.Component {
                                     <div class="row">
                                         <div class="expert col-xs-12 col-sm-3 col-print-3">
                                             <div class="image">
-                                                <img src="/img/recipe/ernaehrungsexpertin_120x120.jpeg"
-                                                     alt="Sophie"/>
+                                                <img src="{entry.getIn(['data', 'recipe_expert_image']})"
+                                                     alt="{entry.getIn(['data', 'recipe_expert_name'])}"/>
                                             </div>
-                                            <span class="expert-name font-style-body">Sophie</span>
+                                            <span class="expert-name font-style-body">{entry.getIn(["data", "recipe_expert_name"])}</span>
                                         </div>
                                         <q class="quote col-xs-12 col-sm-8 col-print-8 font-style-body-2">
-                                            <p>Auf Nummer sicher gehen Sie, wenn Sie den Auflauf zunächst 15-20 Minuten
-                                                mit
-                                                Alufolie in den Backofen stellen und ihn erst am Ende offen braun werden
-                                                lassen.</p>
+                                            <p>{entry.getIn(["data", "recipe_expert_quote"])}</p>
                                         </q>
                                     </div>
                                 </div>
