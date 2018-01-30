@@ -1,5 +1,5 @@
 ---
-name: LOW CARB BLUMENKOHL-REIS MIT BROKKOLI!
+name: low-carb-blumenkohl
 title: LOW CARB BLUMENKOHL-REIS MIT BROKKOLI
 image: /img/blumenkohl-reis_rdk-rds_rv_hd.jpg
 description: eewew
